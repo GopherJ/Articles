@@ -15,6 +15,8 @@ Articles Collections
 - [QUIC协议原理分析.png](./articles/QUIC协议原理分析.png)
 - [RSA算法原理1.png](./articles/RSA算法原理1.png)
 - [RUDP介绍.png](./articles/RUDP介绍.png)
+- [Rust使用Actix-Web验证Auth](./articles/Rust使用Actix-Web验证Auth)
+- [Web微服务1.png](./articles/Web微服务1.png)
 - [Rust库链接.png](./articles/Rust库链接.png)
 - [Wi-Fi中2.4GHz和5GHz的优缺点.png](./articles/Wi-Fi中2.4GHz和5GHz的优缺点.png)
 - [全面了解浏览器内核发展史.png](./articles/全面了解浏览器内核发展史.png)
