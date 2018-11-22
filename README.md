@@ -27,6 +27,7 @@ Articles Collections
 - [平衡树插入.png](./articles/平衡树插入.png)
 - [源码解析NodeJs中的高效timer.png](./articles/源码解析NodeJs中的高效timer.png)
 - [盗将行背后的故事.png](./articles/盗将行背后的故事.png)
+- [给nodejs书写c++拓展.jpg](./articles/给nodejs书写c++拓展.jpg)
 - [让deno支持HTTP服务.png　](./articles/让deno支持HTTP服务.png　)
 - [调用树莓派摄像头.png](./articles/调用树莓派摄像头.png)
 - [谈谈Html5.png](./articles/谈谈Html5.png)
