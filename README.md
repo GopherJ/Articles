@@ -20,6 +20,7 @@ Articles Collections
 - [Web微服务1.png](./articles/Web微服务1.png)
 - [Rust库链接.png](./articles/Rust库链接.png)
 - [Wi-Fi中2.4GHz和5GHz的优缺点.png](./articles/Wi-Fi中2.4GHz和5GHz的优缺点.png)
+- [使用rust给nodejs书写原生模块.png](./articles/使用rust给nodejs书写原生模块.png)
 - [全面了解浏览器内核发展史.png](./articles/全面了解浏览器内核发展史.png)
 - [前端框架性能对比.png](./articles/前端框架性能对比.png)
 - [哈系表的诞生.png](./articles/哈系表的诞生.png)
